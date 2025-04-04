@@ -1,0 +1,15 @@
+.fighterContainer {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(140px, 1fr));
+    gap: 16px;
+}
+
+.card {
+border: 1px solid white;
+border-radius: 8px;
+}
+
+.card li {
+    text-decoration: none;
+    list-style: none;
+}
