@@ -10,7 +10,6 @@ const Card = (props) => {
         <li>{fighter.price}</li>
         <li>{fighter.strength}</li>
         <li>{fighter.agility}</li>
-        <button>Add Fighter</button>
       </ul >
     </div>
   )
